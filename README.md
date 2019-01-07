@@ -11,11 +11,20 @@ Kortom, als bijvoorbeeld supermarktmedewerker wil je alle taken voor een werkdag
 ### Oplossing ###
 Als oplossing voor dit probleem wil ik graag een app ontwikkelen die de mogelijkheid geeft voor een werkgever om transparant en duidelijk to-do listen samen te stellen, deze goed of af te keuren en een logboek te onderhouden als bepaalde zaken die gemeld staan door werknemers inmiddels zijn opgelost. Daarbij kan de werknemer met een minder geavanceerde interface zijn to-do list zien en taken afvinken met een eventuele opmerking of foto erbij. Daarnaast kan via een logboek worden gemeld als er speciale evenementen hebben plaatsgevonden op de werkvloer zoals defecten of gevaarlijke situaties zodat andere collega's deze kunnen zien. Hierbij is er een keuze door middel van icoontjes om te kiezen voor een lage of hoge urgentie.
 
+
+
 ### Features ###
+MVP:
 - Een gebruiker kan inloggen via een inlogpagina zodat deze herkend wordt als werknemer of werkgever en op basis daarvan een verschillende interface te zien krijgt.
-- Een werkgever kan to-do listen samenstellen met een titel en de daarbijbehorende beschrijving. De hoogte van urgentie is door middel van icoontjes aan te passen.
+- Een werkgever kan to-do listen samenstellen met een titel en de daarbijbehorende beschrijving. 
 - Een werkgever kan zaken toevoegen aan het logboek maar ook uit het logboek verwijderen zodra deze hersteld zijn.
 - Een werkgever kan afgeronde taken van werknemers goed-, dan wel afkeuren.
-- Een werknemer kan zijn to-do list zien en deze op basis van urgentie indelen.
+- Een werknemer kan zijn to-do list zien.
+- Een werknemer kan taken als gedaan markeren.
+- Een werknemer kan zaken aan het logboek toevoegen met een titel of beschrijving.
+
+Optioneel:
+- De hoogte van urgentie is door middel van icoontjes aan te passen.
+- Een werknemer kan zijn to-do list op basis van urgentie indelen.
 - Een werknemer kan een taak afronden met een optie om een beschrijving of een foto toe te voegen.
-- Een werknemer kan zaken aan het logboek toevoegen met een optie om een foto toe te voegen. De mate van urgentie kan hierbij bepaald worden.
+- Een werknemer kan foto's aan het logboek toevoegen. De mate van urgentie kan hierbij bepaald worden.
