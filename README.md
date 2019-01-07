@@ -9,9 +9,9 @@ Iedereen werkt en wie werkt, verricht taken. Toch is het niet altijd duidelijk w
 Kortom, als bijvoorbeeld supermarktmedewerker wil je alle taken voor een werkdag op een rijtje hebben zodat je weet wat je moet doen. Als je een taak hebt uitgevoerd wil je deze ook kunnen afvinken met een eventuele opmerking erbij waarna een manager of baas deze handeling kan goedkeuren. Daarbij wil je gevaarlijke situaties, ongevallen of defecten kunnen melden via een logboek zodat alle andere collega's, ook van andere diensten, deze kunnen terugvinden op elk gewenst moment op elke gewenste plaats.
 
 ### Oplossing ###
-Als oplossing voor dit probleem wil ik graag een app ontwikkelen die de mogelijkheid geeft voor een werkgever om transparant en duidelijk to-do listen samen te stellen, deze goed of af te keuren en een logboek te onderhouden als bepaalde zaken die gemeld staan door werknemers inmiddels zijn opgelost. Daarbij kan de werknemer met een minder geavanceerde interface zijn to-do list zien en taken afvinken met een eventuele opmerking of foto erbij. Daarnaast kan via een logboek worden gemeld als er speciale evenementen hebben plaatsgevonden op de werkvloer zoals defecten of gevaarlijke situaties zodat andere collega's deze kunnen zien. Hierbij is er een keuze door middel van icoontjes om te kiezen voor een lage of hoge urgentie.
+Als oplossing voor dit probleem wil ik graag een app ontwikkelen die de mogelijkheid geeft voor een werkgever om transparant en duidelijk to-do listen samen te stellen, deze goed of af te keuren en een logboek te onderhouden als bepaalde zaken die gemeld staan door werknemers inmiddels zijn opgelost waarbij de werknemer dit alles op de app te zien krijgt.
 
-
+<img src="https://github.com/duncanvrosch/AppProposal/blob/master/AppProposal.jpg" width="100%" height="100%"/>
 
 ### Features ###
 MVP:
